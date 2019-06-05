@@ -11,7 +11,7 @@ vi Makefile
 
 Compile programa se radi
 ```
-make all"
+make all
 ```
 
 Clean:
